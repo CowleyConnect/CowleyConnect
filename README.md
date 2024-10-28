@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+Pronouns: she/her
+I'm currently working on creating a tool to host civic data for Cowley county.
+I'm currently learning how to use GitHub.
+I'm looking to collaborate with community partners to make civic data sustainable and accessible to the public.
+How to reach me: cowleyconnect@wpl.org
+
+
 <!--
 **CowleyConnect/CowleyConnect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
